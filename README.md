@@ -1,15 +1,10 @@
-# Basic Sample Hardhat Project
+# Fun Apelympics Evening Hackathon project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+https://apelympics.github.io/Apelympics/
+https://polygonscan.com/token/0x8a5e2a00716a2f5dd6f0fabf6440144f8f14e110
+https://opensea.io/collection/apelympicsnft
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+<br>
+
+![image](https://user-images.githubusercontent.com/47452703/153470691-449f93ce-f454-4be4-9f86-dd042dafd4dc.png)
